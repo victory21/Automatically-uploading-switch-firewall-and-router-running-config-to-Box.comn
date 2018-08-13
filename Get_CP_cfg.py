@@ -14,7 +14,7 @@ sdk = JWTAuth(
   enterprise_id="62977688",
   jwt_key_id="qun049ut",
   rsa_private_key_file_sys_path="C:\\cygwin64\\home\\User-12\\private_Jing.json",
-  rsa_private_key_passphrase='!0725Round'.encode()
+  rsa_private_key_passphrase='#####Round'.encode()
 )
 client = Client(sdk)
 
